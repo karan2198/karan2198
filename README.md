@@ -1,4 +1,10 @@
 # 💫 About Me:
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
+/>
 🌱 I’m currently learning Web Development And DSA<br>🌎 I’m looking to collaborate with other Developer Community<br>💬  Ask me about web-dev,Tech and Harry Potter<br>📫 reach me at karanrajgodansa2003@gmail.com<br>⚡  Fun fact let me think
 
 
