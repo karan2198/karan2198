@@ -5,7 +5,7 @@
     align="right"
     alt="Coding"
     width="300"
-    height="300"
+    height="250"
     src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"
     style="margin-right: 20px;"
   />
