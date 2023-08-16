@@ -1,4 +1,4 @@
-![logo](https://github.com/karan2198/karan2198/blob/main/Hi%20%2C%20I'm.gif)
+![logo](https://github.com/karan2198/karan2198/blob/main/Hi%20%2C%20I'm.jpg)
 
 # 💫 About Me:
 
