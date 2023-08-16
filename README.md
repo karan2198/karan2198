@@ -1,3 +1,5 @@
+![logo](https://github.com/karan2198/karan2198/blob/main/Hi%20%2C%20I'm.gif)
+
 # 💫 About Me:
 
 <div style="display: flex;">
